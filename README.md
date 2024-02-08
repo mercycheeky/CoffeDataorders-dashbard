@@ -27,4 +27,5 @@ This project provides an interactive dashboard for analyzing sales of coffee of 
 4. Observe how pivot charts update in real time based on pivot table selections.
 5. Customize them to your liking.
 ### Data Sources
-[CoffeeData]{
+[CoffeeData]{https://github.com/mercycheeky/CoffeDataorders-dashbard/blob/main/coffeeOrdersProject.xlsx}
+
