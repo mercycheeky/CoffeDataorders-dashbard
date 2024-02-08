@@ -29,3 +29,9 @@ This project provides an interactive dashboard for analyzing sales of coffee of 
 ### Data Sources
 [CoffeeData]{https://github.com/mercycheeky/CoffeDataorders-dashbard/blob/main/coffeeOrdersProject.xlsx}
 
+### Acknowledgements
+- Coffee data set provided by [MoChen862]{https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx}
+- Built using Excel.
+
+  Enjoy! :EMOJICODE:LOVE
+  
