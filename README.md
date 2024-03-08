@@ -7,7 +7,16 @@ This project provides an interactive dashboard for analyzing sales of coffee of 
 - Visualization of sales data helped identify trends and changing patterns of consumer behaviour . For example the sudden shift in consumer coffee preference.
 - Another importance is the fact that stakeholders are able to recognize insights and and interpret them easily, when presented on a dashboard format. They make informed choices regarding marketing strategies, pricing, resource allocation to make data-driven decisions.
   ### DEMO
-  coming soon
+
+
+
+
+
+https://github.com/mercycheeky/CoffeDataorders-dashbard/assets/56400871/f0158825-99f1-4535-9ee5-1006ae21c2ee
+
+
+
+  
 ## Features🗳️
 - A line chart displaying Total Sales Overtime split by the coffee type
 - Bar chart : Sales by country; sold to 3 countries
